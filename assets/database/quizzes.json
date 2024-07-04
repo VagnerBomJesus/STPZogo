@@ -1,0 +1,761 @@
+[
+
+
+  {
+    "title": "História",
+    "imagem": "blocks",
+    "questionAnswered": 0,
+    "level": "facil",
+    "questions": [
+      {
+        "title": "Quem descobriu São Tomé e Príncipe?",
+        "awnsers": [
+          {"title": "Vasco da Gama"},
+          {"title": "Pedro Álvares Cabral"},
+          {"title": "João de Santarém e Pêro Escobar", "isRight": true},
+          {"title": "Cristóvão Colombo"}
+        ]
+      },
+      {
+        "title": "Em que ano São Tomé e Príncipe se tornou uma nação independente?",
+        "awnsers": [
+          {"title": "1970"},
+          {"title": "1975", "isRight": true},
+          {"title": "1980"},
+          {"title": "1985"}
+        ]
+      },
+      {
+        "title": "Qual era a principal colheita durante a era colonial em São Tomé e Príncipe?",
+        "awnsers": [
+          {"title": "Café"},
+          {"title": "Cacau", "isRight": true},
+          {"title": "Açúcar"},
+          {"title": "Têxteis"}
+        ]
+      },
+      {
+        "title": "Como São Tomé e Príncipe alcançou sua independência?",
+        "awnsers": [
+          {"title": "Por um golpe de estado"},
+          {"title": "Por um referendo popular"},
+          {"title": "Por uma revolução armada"},
+          {"title": "Por um acordo de descolonização", "isRight": true}
+        ]
+      },
+      {
+        "title": "Qual grupo étnico foi o primeiro a habitar São Tomé e Príncipe?",
+        "awnsers": [
+          {"title": "Os Forros", "isRight": true},
+          {"title": "Os Angolares"},
+          {"title": "Os Tongas"},
+          {"title": "Os Serviçais"}
+        ]
+      },
+
+      {
+        "title": "Qual foi o impacto inicial do descobrimento de São Tomé e Príncipe pelos portugueses?",
+        "awnsers": [
+          {"title": "Foi imediatamente colonizado"},
+          {"title": "Usado como base para a exploração da África"},
+          {"title": "Desenvolvimento de comércio com a Ásia", "isRight": true},
+          {"title": "Ignorado por várias décadas"}
+        ]
+      },
+      {
+        "title": "Qual foi a principal razão para a construção de roças em São Tomé e Príncipe?",
+        "awnsers": [
+          {"title": "Produção de especiarias"},
+          {"title": "Turismo"},
+          {"title": "Agricultura de subsistência"},
+          {"title": "Produção de açúcar e cacau", "isRight": true}
+        ]
+      },
+      {
+        "title": "Quando começou a colonização efetiva de São Tomé e Príncipe?",
+        "awnsers": [
+          {"title": "1493", "isRight": true},
+          {"title": "1520"},
+          {"title": "1600"},
+          {"title": "1650"}
+        ]
+      },
+      {
+        "title": "Que evento histórico levou à importação de escravos para São Tomé e Príncipe?",
+        "awnsers": [
+          {"title": "Descoberta de ouro"},
+          {"title": "Desenvolvimento da indústria do café"},
+          {"title": "Cultivo de cana-de-açúcar", "isRight": true},
+          {"title": "Construção de infraestrutura"}
+        ]
+      },
+      {
+        "title": "Qual destas personalidades é uma figura importante na história de São Tomé e Príncipe?",
+        "awnsers": [
+          {"title": "Amador Vieira"},
+          {"title": "Rei Amador", "isRight": true},
+          {"title": "Príncipe Dom Carlos"},
+          {"title": "Governador Francisco de Almeida"}
+        ]
+      },
+
+      {
+        "title": "Que tipo de sistema de governo foi estabelecido em São Tomé e Príncipe após a independência?",
+        "awnsers": [
+          {"title": "Monarquia constitucional"},
+          {"title": "República parlamentarista", "isRight": true},
+          {"title": "Ditadura militar"},
+          {"title": "Sistema presidencialista"}
+        ]
+      },
+      {
+        "title": "Qual país colonizou São Tomé e Príncipe no século XV?",
+        "awnsers": [
+          {"title": "Espanha"},
+          {"title": "França"},
+          {"title": "Portugal", "isRight": true},
+          {"title": "Reino Unido"}
+        ]
+      },
+      {
+        "title": "Qual foi um dos principais motivos para a abolição da escravatura em São Tomé e Príncipe?",
+        "awnsers": [
+          {"title": "Pressão internacional", "isRight": true},
+          {"title": "Guerra civil"},
+          {"title": "Revolução interna"},
+          {"title": "Declínio econômico"}
+        ]
+      },
+      {
+        "title": "Quem foi o primeiro presidente de São Tomé e Príncipe após a independência?",
+        "awnsers": [
+          {"title": "Manuel Pinto da Costa", "isRight": true},
+          {"title": "Fradique de Menezes"},
+          {"title": "Evaristo Carvalho"},
+          {"title": "Carlos da Graça"}
+        ]
+      },
+      {
+        "title": "Qual foi a consequência da descoberta de petróleo em São Tomé e Príncipe no início dos anos 2000?",
+        "awnsers": [
+          {"title": "Crescimento econômico imediato"},
+          {"title": "Disputas territoriais com a Nigéria"},
+          {"title": "Desenvolvimento de infraestrutura"},
+          {"title": "Esperança de prosperidade futura", "isRight": true}
+        ]
+      }
+    ]
+  },
+
+
+
+  {
+    "title": "Cultura",
+    "imagem": "laptop",
+    "questionAnswered": 0,
+    "level": "facil",
+    "questions": [
+      {
+        "title": "Qual é a língua oficial de São Tomé e Príncipe?",
+        "awnsers": [
+          {"title": "Inglês"},
+          {"title": "Francês"},
+          {"title": "Espanhol"},
+          {"title": "Português", "isRight": true}
+        ]
+      },
+      {
+        "title": "Qual destes estilos musicais é popular em São Tomé e Príncipe?",
+        "awnsers": [
+          {"title": "Kizomba"},
+          {"title": "Socopé", "isRight": true},
+          {"title": "Zouk"},
+          {"title": "Afrobeat"}
+        ]
+      },
+      {
+        "title": "Qual é a dança tradicional de São Tomé e Príncipe?",
+        "awnsers": [
+          {"title": "Kuduro"},
+          {"title": "Tarraxinha"},
+          {"title": "Danço-Congo", "isRight": true},
+          {"title": "Funaná"}
+        ]
+      },
+      {
+        "title": "Que tipo de arte é uma tradição em São Tomé e Príncipe?",
+        "awnsers": [
+          {"title": "Escultura em madeira", "isRight": true},
+          {"title": "Pintura a óleo"},
+          {"title": "Gravura"},
+          {"title": "Arte digital"}
+        ]
+      },
+      {
+        "title": "Qual festividade é amplamente celebrada em São Tomé e Príncipe?",
+        "awnsers": [
+          {"title": "Carnaval de São Tomé", "isRight": true},
+          {"title": "Dia da Independência"},
+          {"title": "Natal"},
+          {"title": "Páscoa"}
+        ]
+      }
+    ]
+  },
+
+
+
+  {
+    "title": "Gastronomia",
+    "imagem": "data",
+    "questionAnswered": 0,
+    "level": "facil",
+    "questions": [
+      {
+        "title": "Qual é o prato tradicional de São Tomé e Príncipe feito com peixe ou carne e legumes variados?",
+        "awnsers": [
+          {"title": "Calulu", "isRight": true},
+          {"title": "Cachupa"},
+          {"title": "Feijoada"},
+          {"title": "Mufete"}
+        ]
+      },
+      {
+        "title": "Que ingrediente é amplamente usado na culinária de São Tomé e Príncipe?",
+        "awnsers": [
+          {"title": "Milho"},
+          {"title": "Cacau"},
+          {"title": "Arroz", "isRight": true},
+          {"title": "Trigo"}
+        ]
+      },
+      {
+        "title": "Qual destes é um popular acompanhamento em São Tomé e Príncipe?",
+        "awnsers": [
+          {"title": "Pão"},
+          {"title": "Polenta"},
+          {"title": "Banana Pão", "isRight": true},
+          {"title": "Batata Frita"}
+        ]
+      },
+      {
+        "title": "Qual bebida é tradicionalmente produzida em São Tomé e Príncipe?",
+        "awnsers": [
+          {"title": "Cerveja Nacional", "isRight": true},
+          {"title": "Vinho"},
+          {"title": "Café"},
+          {"title": "Cacau"}
+        ]
+      },
+      {
+        "title": "Qual destes pratos é um doce típico de São Tomé e Príncipe?",
+        "awnsers": [
+          {"title": "Arroz Doce"},
+          {"title": "Cuscuz"},
+          {"title": "Izaquente de Açucar", "isRight": true},
+          {"title": "Bolo de Mandioca"}
+        ]
+      }
+    ]
+  },
+
+
+
+  {
+    "title": "Biodiversidade",
+    "imagem": "laptop",
+    "questionAnswered": 0,
+    "level": "facil",
+    "questions": [
+      {
+        "title": "Qual destes é um pássaro endêmico de São Tomé e Príncipe?",
+        "awnsers": [
+          {"title": "Papagaio-cinzento"},
+          {"title": "Dobradura"},
+          {"title": "Papagaio-do-mar"},
+          {"title": "Papagaio-de-São-Tomé", "isRight": true}
+        ]
+      },
+      {
+        "title": "Qual é a árvore nacional de São Tomé e Príncipe conhecida por seu tamanho gigantesco?",
+        "awnsers": [
+          {"title": "Baobá"},
+          {"title": "Cedro"},
+          {"title": "Sândalo"},
+          {"title": "Ocá", "isRight": true}
+        ]
+      },
+      {
+        "title": "Que tipo de planta é famosa em São Tomé por seu aroma e qualidade mundialmente reconhecidos?",
+        "awnsers": [
+          {"title": "Café"},
+          {"title": "Cacau", "isRight": true},
+          {"title": "Pimenta"},
+          {"title": "Baunilha"}
+        ]
+      },
+      {
+        "title": "Que tipo de habitat é mais comum em São Tomé e Príncipe?",
+        "awnsers": [
+          {"title": "Desertos"},
+          {"title": "Florestas tropicais", "isRight": true},
+          {"title": "Savanas"},
+          {"title": "Zonas úmidas"}
+        ]
+      },
+      {
+        "title": "Qual destes é um peixe comum nas águas de São Tomé e Príncipe?",
+        "awnsers": [
+          {"title": "Salmão"},
+          {"title": "Peixe-papagaio", "isRight": true},
+          {"title": "Bacalhau"},
+          {"title": "Atum"}
+        ]
+      }
+    ]
+  },
+
+
+  {
+    "title": "Língua de São Tomé e Príncipe",
+    "imagem": "data",
+    "questionAnswered": 0,
+    "level": "facil",
+    "questions": [
+       {
+        "title": "Qual é o significado de 'alimandadji'?",
+        "awnsers": [
+          {"title": "Tipo de peixe"},
+          {"title": "Habilidade", "isRight": true},
+          {"title": "Instrumento musical"},
+          {"title": "Vestuário tradicional"}
+        ]
+      },
+      {
+        "title": "O que significa 'blutu' na língua de São Tomé e Príncipe?",
+        "awnsers": [
+          {"title": "Bruto", "isRight": true},
+          {"title": "Irmão"},
+          {"title": "Rápido"},
+          {"title": "Casa"}
+        ]
+      },
+      {
+        "title": "Qual é o significado de 'bluxa'?",
+        "awnsers": [
+          {"title": "Bruxa", "isRight": true},
+          {"title": "Ilha"},
+          {"title": "Céu"},
+          {"title": "Caminho"}
+        ]
+      },
+      {
+        "title": "Como se usa 'bô' na língua de São Tomé e Príncipe?",
+        "awnsers": [
+          {"title": "Para perguntar onde"},
+          {"title": "Como cumprimento"},
+          {"title": "Para indicar posse", "isRight": true},
+          {"title": "Como interjeição de surpresa"}
+        ]
+      },
+      {
+        "title": "Qual é a tradução de 'bôbô'?",
+        "awnsers": [
+          {"title": "Banana madura"},
+          {"title": "Estúpido", "isRight": true},
+          {"title": "Pássaro"},
+          {"title": "Cão"}
+        ]
+      },
+      {
+        "title": "O que representa 'bôbôbôbô'?",
+        "awnsers": [
+          {"title": "Uma dança"},
+          {"title": "Um tipo de árvore", "isRight": true},
+          {"title": "Uma expressão de surpresa"},
+          {"title": "Um prato típico"}
+        ]
+      },
+      {
+        "title": "Qual é o significado de 'bodo'?",
+        "awnsers": [
+          {"title": "Cais", "isRight": true},
+          {"title": "Pedra"},
+          {"title": "Caminho"},
+          {"title": "Pássaro"}
+        ]
+      },
+      {
+        "title": "O que significa 'boka'?",
+        "awnsers": [
+          {"title": "Boca", "isRight": true},
+          {"title": "Casa"},
+          {"title": "Árvore"},
+          {"title": "Céu"}
+        ]
+      },
+      {
+        "title": "Qual é a tradução de 'bôbô mina'?",
+        "awnsers": [
+          {"title": "Transportar uma criança às costas", "isRight": true},
+          {"title": "Brincar"},
+          {"title": "Cantar"},
+          {"title": "Cozinhar"}
+        ]
+      },
+      {
+        "title": "O que representa 'boka-doxi'?",
+        "awnsers": [
+          {"title": "Com apetite", "isRight": true},
+          {"title": "Cansado"},
+          {"title": "Animado"},
+          {"title": "Triste"}
+        ]
+      },
+      {
+        "title": "Qual é o significado de 'bokadu'?",
+        "awnsers": [
+          {"title": "Bocado", "isRight": true},
+          {"title": "Cozinhar"},
+          {"title": "Caminhar"},
+          {"title": "Cantar"}
+        ]
+      },
+      {
+        "title": "O que significa 'da' como verbo na língua de São Tomé e Príncipe?",
+        "awnsers": [
+          {"title": "Cantar"},
+          {"title": "Correr"},
+          {"title": "Dar", "isRight": true},
+          {"title": "Dormir"}
+        ]
+      },
+      {
+        "title": "Qual é o significado de 'dadji'?",
+        "awnsers": [
+          {"title": "Casa"},
+          {"title": "Idade", "isRight": true},
+          {"title": "Caminho"},
+          {"title": "Árvore"}
+        ]
+      },
+      {
+        "title": "O que representa 'da kabêsa fundu'?",
+        "awnsers": [
+          {"title": "Pensar profundamente"},
+          {"title": "Mergulhar", "isRight": true},
+          {"title": "Estudar"},
+          {"title": "Andar rapidamente"}
+        ]
+      },
+      {
+        "title": "Qual é a tradução de 'dansa'?",
+        "awnsers": [
+          {"title": "Cantar"},
+          {"title": "Dançar", "isRight": true},
+          {"title": "Pular"},
+          {"title": "Correr"}
+        ]
+      },
+      {
+        "title": "O que significa 'dê' como possessivo?",
+        "awnsers": [
+          {"title": "Nosso"},
+          {"title": "Deles", "isRight": true},
+          {"title": "De você"},
+          {"title": "Meu"}
+        ]
+      },
+      {
+        "title": "Qual é o significado de 'dona'?",
+        "awnsers": [
+          {"title": "Avó", "isRight": true},
+          {"title": "Mãe"},
+          {"title": "Irmã"},
+          {"title": "Tia"}
+        ]
+      },
+      {
+        "title": "O que representa 'dôsu'?",
+        "awnsers": [
+          {"title": "Dois", "isRight": true},
+          {"title": "Dez"},
+          {"title": "Três"},
+          {"title": "Quatro"}
+        ]
+      },
+      {
+        "title": "Qual é a tradução de 'doxi' como adjetivo?",
+        "awnsers": [
+          {"title": "Forte"},
+          {"title": "Rápido"},
+          {"title": "Doce", "isRight": true},
+          {"title": "Alto"}
+        ]
+      },
+      {
+        "title": "O que significa 'debota'?",
+        "awnsers": [
+          {"title": "Desbotar", "isRight": true},
+          {"title": "Decorar"},
+          {"title": "Descansar"},
+          {"title": "Desenhar"}
+        ]
+      },
+      {
+        "title": "Qual é o significado de 'dêfêza'?",
+        "awnsers": [
+          {"title": "Defesa", "isRight": true},
+          {"title": "Desafio"},
+          {"title": "Destino"},
+          {"title": "Decisão"}
+        ]
+      },{
+        "title": "Qual é o significado de 'ê' como partícula na língua de São Tomé e Príncipe?",
+        "awnsers": [
+          {"title": "Sim"},
+          {"title": "Não"},
+          {"title": "Ó", "isRight": true},
+          {"title": "Talvez"}
+        ]
+      },
+      {
+        "title": "O que significa 'êlê' como pronome?",
+        "awnsers": [
+          {"title": "Eles"},
+          {"title": "Ela", "isRight": true},
+          {"title": "Nós"},
+          {"title": "Vocês"}
+        ]
+      },
+      {
+        "title": "Qual é a função de 'e' como pronome?",
+        "awnsers": [
+          {"title": "Indicar posse"},
+          {"title": "Complemento direto", "isRight": true},
+          {"title": "Substantivo"},
+          {"title": "Adjetivo"}
+        ]
+      },
+      {
+        "title": "O que representa a palavra 'eku'?",
+        "awnsers": [
+          {"title": "Eco", "isRight": true},
+          {"title": "Água"},
+          {"title": "Sol"},
+          {"title": "Vento"}
+        ]
+      },
+      {
+        "title": "Qual é o significado de 'eli'?",
+        "awnsers": [
+          {"title": "Noite"},
+          {"title": "Dia"},
+          {"title": "Brilho", "isRight": true},
+          {"title": "Chuva"}
+        ]
+      },
+      {
+        "title": "Qual é a tradução de 'enjolo'?",
+        "awnsers": [
+          {"title": "Pássaro", "isRight": true},
+          {"title": "Peixe"},
+          {"title": "Inseto"},
+          {"title": "Animal"}
+        ]
+      },
+      {
+        "title": "O que significa 'enkwantu'?",
+        "awnsers": [
+          {"title": "Enquanto", "isRight": true},
+          {"title": "Porque"},
+          {"title": "Antes"},
+          {"title": "Depois"}
+        ]
+      },
+      {
+        "title": "Qual é o significado de 'êya'?",
+        "awnsers": [
+          {"title": "Oi", "isRight": true},
+          {"title": "Adeus"},
+          {"title": "Por favor"},
+          {"title": "Obrigado"}
+        ]
+      },
+      {
+        "title": "O que representa 'efan' na língua de São Tomé e Príncipe?",
+        "awnsers": [
+          {"title": "Efetivamente", "isRight": true},
+          {"title": "Possivelmente"},
+          {"title": "Literalmente"},
+          {"title": "Simplesmente"}
+        ]
+      },
+      {
+        "title": "Qual é a tradução de 'ejitu'?",
+        "awnsers": [
+          {"title": "Esperança"},
+          {"title": "Jeito", "isRight": true},
+          {"title": "Desejo"},
+          {"title": "Sonho"}
+        ]
+      },{
+        "title": "Qual é o significado da palavra 'fa' como partícula de negação?",
+        "awnsers": [
+          {"title": "Sim"},
+          {"title": "Não", "isRight": true},
+          {"title": "Talvez"},
+          {"title": "Quando"}
+        ]
+      },
+      {
+        "title": "O que significa a palavra 'faka'?",
+        "awnsers": [
+          {"title": "Faca", "isRight": true},
+          {"title": "Fogo"},
+          {"title": "Ferro"},
+          {"title": "Folha"}
+        ]
+      },
+      {
+        "title": "Qual é o significado de 'fala'?",
+        "awnsers": [
+          {"title": "Canto"},
+          {"title": "Fala", "isRight": true},
+          {"title": "Palavra"},
+          {"title": "Silêncio"}
+        ]
+      },
+      {
+        "title": "O que representa 'falufalu'?",
+        "awnsers": [
+          {"title": "Rapidamente"},
+          {"title": "Devagar"},
+          {"title": "De forma dissimulada", "isRight": true},
+          {"title": "Claramente"}
+        ]
+      },
+      {
+        "title": "Qual é o significado de 'faluza'?",
+        "awnsers": [
+          {"title": "Ferrugem", "isRight": true},
+          {"title": "Furto"},
+          {"title": "Felicidade"},
+          {"title": "Fumaça"}
+        ]
+      },
+      {
+        "title": "O que significa 'fama'?",
+        "awnsers": [
+          {"title": "Fama", "isRight": true},
+          {"title": "Forma"},
+          {"title": "Fera"},
+          {"title": "Fumaça"}
+        ]
+      },
+      {
+        "title": "Qual é a tradução de 'fana'?",
+        "awnsers": [
+          {"title": "Abrir", "isRight": true},
+          {"title": "Fechar"},
+          {"title": "Ferver"},
+          {"title": "Fugir"}
+        ]
+      },
+      {
+        "title": "O que representa 'fanha'?",
+        "awnsers": [
+          {"title": "Farinha", "isRight": true},
+          {"title": "Festa"},
+          {"title": "Fama"},
+          {"title": "Fera"}
+        ]
+      },
+      {
+        "title": "Qual é o significado de 'fanta'?",
+        "awnsers": [
+          {"title": "Mania"},
+          {"title": "Desdém", "isRight": true},
+          {"title": "Força"},
+          {"title": "Festa"}
+        ]
+      },
+      {
+        "title": "Qual é a tradução de 'fatu'?",
+        "awnsers": [
+          {"title": "Fato", "isRight": true},
+          {"title": "Feito"},
+          {"title": "Forte"},
+          {"title": "Futuro"}
+        ]
+      },
+      {
+        "title": "O que representa a palavra 'alima-plêdidu'?",
+        "awnsers": [
+          {"title": "Alma penada", "isRight": true},
+          {"title": "Manhã ensolarada"},
+          {"title": "Cerimônia religiosa"},
+          {"title": "Prato típico"}
+        ]
+      },
+      {
+        "title": "Qual é a tradução de 'alumayu'?",
+        "awnsers": [
+          {"title": "Tipo de planta"},
+          {"title": "Armadilha"},
+          {"title": "Armário", "isRight": true},
+          {"title": "Espécie de ave"}
+        ]
+      },
+      {
+        "title": "O que significa 'alika'?",
+        "awnsers": [
+          {"title": "Baú", "isRight": true},
+          {"title": "Ferramenta"},
+          {"title": "Instrumento musical"},
+          {"title": "Tipo de dança"}
+        ]
+      },
+      {
+        "title": "Qual é o significado de 'alima'?",
+        "awnsers": [
+          {"title": "Rio"},
+          {"title": "Alma", "isRight": true},
+          {"title": "Planta medicinal"},
+          {"title": "Ferramenta"}
+        ]
+      },
+      {
+        "title": "Como é usado 'alimanze'?",
+        "awnsers": [
+          {"title": "Armazém", "isRight": true},
+          {"title": "Nome de pessoa"},
+          {"title": "Ferramenta de pesca"},
+          {"title": "Tipo de dança"}
+        ]
+      },
+      {
+        "title": "Qual é a tradução de 'aloku'?",
+        "awnsers": [
+          {"title": "Álcool", "isRight": true},
+          {"title": "Tipo de tecido"},
+          {"title": "Instrumento musical"},
+          {"title": "Cerimônia"}
+        ]
+      },
+      {
+        "title": "O que significa 'alugudon'?",
+        "awnsers": [
+          {"title": "Árvore"},
+          {"title": "Algodão", "isRight": true},
+          {"title": "Tipo de peixe"},
+          {"title": "Instrumento musical"}
+        ]
+      }
+    ]
+  }
+
+
+
+
+]
