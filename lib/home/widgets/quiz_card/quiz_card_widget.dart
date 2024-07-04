@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
+
 import 'package:stpzogo/core/core.dart';
 import 'package:stpzogo/shared/widgets/progress_indicator/progress_indicator_widget.dart';
-
 
 class QuizCardWidget extends StatelessWidget {
   final String title;
@@ -23,7 +23,7 @@ class QuizCardWidget extends StatelessWidget {
       child: Container(
         padding: const EdgeInsets.all(16),
         decoration: BoxDecoration(
-            border: const Border.fromBorderSide(BorderSide(color: AppColors.border)),
+            border: Border.fromBorderSide(BorderSide(color: AppColors.border)),
             color: AppColors.white,
             borderRadius: BorderRadius.circular(10)),
         child: Column(

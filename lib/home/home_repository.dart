@@ -1,8 +1,8 @@
 import 'dart:convert';
 
-import 'package:flutter/services.dart';
 import 'package:stpzogo/shared/models/quiz_model.dart';
 import 'package:stpzogo/shared/models/user_model.dart';
+import 'package:flutter/services.dart';
 
 class HomeRepository {
   Future<UserModel> getUser() async {

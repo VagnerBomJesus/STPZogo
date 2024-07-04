@@ -55,7 +55,7 @@ class _HomePageState extends State<HomePage> {
           padding: const EdgeInsets.symmetric(horizontal: 20),
           child: Column(
             children: [
-             const SizedBox(height: 24),
+              const SizedBox(height: 24),
               SingleChildScrollView(
                 scrollDirection: Axis.horizontal,
                 child: Row(
@@ -70,7 +70,7 @@ class _HomePageState extends State<HomePage> {
                         });
                       },
                     ),
-                   const SizedBox(width: 8),
+                    const SizedBox(width: 8),
                     LevelButtonWidget(
                       label: "Médio",
                       isSelected: selectedLevel == "Médio",
@@ -123,14 +123,21 @@ class _HomePageState extends State<HomePage> {
                             questions: e.questions,
                             title: e.title,
                             timerDuration: timerDuration,
+                            onCorrectAnswer: () {
+                              setState(() {
+
+                              });
+                            },
                           ),
                         ),
                       );
                     },
+                      // Passa o número de acertos
                   ))
                       .toList(),
                 ),
               ),
+              const SizedBox(height: 40),
             ],
           ),
         ),

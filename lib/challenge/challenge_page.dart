@@ -1,12 +1,10 @@
 import 'dart:async';
-
 import 'package:flutter/material.dart';
 import 'package:stpzogo/challenge/widgets/next_button/next_button_widget.dart';
 import 'package:stpzogo/challenge/widgets/question_indicator/question_indicator_widget.dart';
 import 'package:stpzogo/challenge/widgets/util/quiz_utils.dart';
 import 'package:stpzogo/result/result_page.dart';
 import 'package:stpzogo/shared/models/question_model.dart';
-
 import 'challenge_controller.dart';
 import 'widgets/quiz/quiz_widget.dart';
 
@@ -14,12 +12,14 @@ class ChallengePage extends StatefulWidget {
   final List<QuestionModel> questions;
   final String title;
   final int timerDuration; // Adicione o parâmetro de duração do timer
+  final VoidCallback onCorrectAnswer; // Callback para atualizar acertos
 
   ChallengePage({
     Key? key,
     required this.questions,
     required this.title,
     required this.timerDuration,
+    required this.onCorrectAnswer,
   }) : super(key: key);
 
   @override
@@ -95,6 +95,7 @@ class _ChallengePageState extends State<ChallengePage> {
   void onSelected(bool value) {
     if (value) {
       controller.qtdAnwserRight++;
+      widget.onCorrectAnswer(); // Atualiza os acertos no HomePage
     }
     nextPage();
   }
